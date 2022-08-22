@@ -1,5 +1,5 @@
 ## NOT ALL CONFIGURATIONS ARE PROVIDED, ONLY PROVIDED VALUES OPEN FOR CHANGE PROVIDED
-## Material Enum list provided, IT MUST be capital and MUST be a valid variant name
+## Material Enum list provided, IT MUST be lower cast and MUST be a valid variant name
 ## https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
 
 # Items that Elevators will ignore checking for.
