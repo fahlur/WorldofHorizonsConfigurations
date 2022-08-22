@@ -1,3 +1,6 @@
+## Material Enum list provided, IT MUST be capital and MUST be a valid variant name
+## https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+
 Tools:
 - WOODEN_SHOVEL
 - WOODEN_PICKAXE
